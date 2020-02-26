@@ -4,4 +4,4 @@
   service:
     name: httpd
     state: restarted
-    enabled: yes---
+    enabled: yes
